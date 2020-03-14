@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- HTML Codes by Quackit.com -->
+<title>
+TITTLE</title>
+<meta name="keywords" content="KEYWORD">
+<meta name="description" content="DESKRP">
+</head>
+<body>
+<div style="width:100%;height:100%;background-color:#000033;background-image:url(https://unsplash.com/photos/8xznAGy4HcY);background-repeat:no-repeat;background-position:top left;background-attachment:fixed;">
+<h1 style="text-align:left;font-family:Impact;font-variant:small-caps;letter-spacing:1px;color:#000000;background-color:#0099FF;">KATA BIJI</h1>
+<p style="text-align:left;font-family:Arial;font-size:14px;font-style:normal;font-weight:bold;font-variant:small-caps;letter-spacing:1px;line-height:1px;text-indent:1px;color:#000000;">PARAGRAF</p>
+</div>
+</body>
+</html>
